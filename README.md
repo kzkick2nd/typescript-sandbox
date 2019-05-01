@@ -7,5 +7,8 @@ sandbox for typescript
     - version 2.0 was released in 2016
     - version 3.0 was released in 2018
 - find shortcut key move to next of right bracket
+    - enable vim mode
 - set auto validation type mismatch detection
+    - typically providesd by cli tools.
 - open browser command
+    - type `open`
